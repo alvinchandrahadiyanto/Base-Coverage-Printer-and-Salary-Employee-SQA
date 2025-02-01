@@ -1,4 +1,4 @@
-#Ujian Minggu ke 1 SQA Juara Coding Batch 20
+# Ujian Minggu ke 1 SQA Juara Coding Batch 20
 
 Seluruh ketentuan Ujian ada dalam dokumen yang terlampir. Terakhir dikumpulkan hari Minggu pukul 23.59 WIB.
 
